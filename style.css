@@ -19,6 +19,7 @@ background-color: white;
   padding: 20px 50px 20px 50px;
   background-color: rgb(161, 139, 158);
   font-size: 25px;
+  margin-top: 4px
 }
 
 .button {
@@ -28,4 +29,5 @@ background-color: white;
   box-shadow: 0px;
   font-size: 22px;
   font-weight: 5px;
+  margin-top: 5px
 }
